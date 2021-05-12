@@ -1,0 +1,29 @@
+{
+  "name": "@mya-ake/fs",
+  "version": "0.0.0",
+  "description": "file system utilities",
+  "author": "mya-ake <make.app.ts@gmail.com> (https://github.com/mya-ake)",
+  "homepage": "https://github.com/mya-ake/shared#readme",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mya-ake/shared.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write ."
+  },
+  "bugs": {
+    "url": "https://github.com/mya-ake/shared/issues"
+  }
+}
