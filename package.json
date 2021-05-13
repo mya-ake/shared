@@ -8,6 +8,7 @@
   "scripts": {
     "build": "lerna run build",
     "format": "lerna run format",
+    "format:check": "lerna run format:check",
     "prepare": "husky install"
   },
   "devDependencies": {

@@ -22,7 +22,8 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "tsc",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "bugs": {
     "url": "https://github.com/mya-ake/shared/issues"
