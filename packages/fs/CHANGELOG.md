@@ -7,10 +7,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @mya-ake/fs
 
-
-
-
-
 ## 0.0.1 (2021-05-12)
 
 **Note:** Version bump only for package @mya-ake/fs

@@ -20,6 +20,7 @@
     "url": "git+https://github.com/mya-ake/shared.git"
   },
   "scripts": {
+    "prebuild": "rimraf dist",
     "build": "tsc",
     "format": "prettier --write ."
   },
