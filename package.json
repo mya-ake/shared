@@ -7,9 +7,11 @@
   "private": true,
   "scripts": {
     "build": "lerna run build",
-    "format": "lerna run format"
+    "format": "lerna run format",
+    "prepare": "husky install"
   },
   "devDependencies": {
+    "husky": "^6.0.0",
     "jest": "^26.6.3",
     "lerna": "^4.0.0",
     "prettier": "^2.3.0",
