@@ -1,6 +1,6 @@
 {
   "name": "@mya-ake/eslint-config-ts",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "mya-ake <make.app.ts@gmail.com> (https://github.com/mya-ake)",
   "homepage": "https://github.com/mya-ake/shared#readme",
@@ -10,7 +10,7 @@
     "index.js"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -30,5 +30,6 @@
     "@typescript-eslint/eslint-plugin": "^4.23.0",
     "@typescript-eslint/parser": "^4.23.0",
     "eslint-config-prettier": "^8.3.0"
-  }
+  },
+  "gitHead": "502a1a49b6e358bdc2bed4a7da557cd3dfa938c7"
 }
