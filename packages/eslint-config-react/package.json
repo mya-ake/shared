@@ -1,6 +1,6 @@
 {
   "name": "@mya-ake/eslint-config-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint config for React",
   "author": "mya-ake <make.app.ts@gmail.com> (https://github.com/mya-ake)",
   "homepage": "https://github.com/mya-ake/shared#readme",
