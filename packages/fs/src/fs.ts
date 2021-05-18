@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const createDir = (pathname: string): Promise<void> => {
+export const createDir = (pathname: string): Promise<void> => {
   return fs.promises.mkdir(pathname);
 };
 
