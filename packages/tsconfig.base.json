@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "module": "esnext",
+    "module": "CommonJS",
     "lib": ["esnext", "dom"],
     "types": ["jest"],
     "declaration": true,
