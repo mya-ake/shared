@@ -1,0 +1,31 @@
+{
+  "name": "@mya-ake/command-line-utils",
+  "version": "0.0.0",
+  "description": "command line utilities",
+  "author": "mya-ake <make.app.ts@gmail.com> (https://github.com/mya-ake)",
+  "homepage": "https://github.com/mya-ake/shared#readme",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mya-ake/shared.git"
+  },
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "bugs": {
+    "url": "https://github.com/mya-ake/shared/issues"
+  }
+}
