@@ -1,14 +1,18 @@
 import { spawn as spawnCommand, ChildProcess } from 'child_process';
 
+export type SpawnOption = {
+  pararel?: boolean;
+};
+
 type Spawn = (
   command: string,
   args?: string[],
-  options?: { pararel?: boolean },
+  option?: SpawnOption,
 ) => Promise<ChildProcess>;
 
-export const spawn: Spawn = (command, args = [], options = {}) => {
+export const spawn: Spawn = (command, args = [], option = {}) => {
   return new Promise((resolve, reject) => {
-    const { pararel = false } = options;
+    const { pararel = false } = option;
 
     const ps = spawnCommand(command, args, { stdio: 'inherit' });
 
