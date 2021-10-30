@@ -28,8 +28,8 @@
     "prettier": ">= 2"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "4.33.0",
-    "@typescript-eslint/parser": "4.33.0",
+    "@typescript-eslint/eslint-plugin": "5.2.0",
+    "@typescript-eslint/parser": "5.2.0",
     "eslint-config-prettier": "8.3.0"
   },
   "gitHead": "502a1a49b6e358bdc2bed4a7da557cd3dfa938c7"
