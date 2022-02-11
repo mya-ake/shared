@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "eslint-plugin-react": "7.28.0",
-    "eslint-plugin-react-hooks": "4.2.0"
+    "eslint-plugin-react-hooks": "4.3.0"
   }
 }
