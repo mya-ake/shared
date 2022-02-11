@@ -3,7 +3,7 @@
     "target": "ES2020",
     "module": "CommonJS",
     "lib": ["esnext", "dom"],
-    "types": ["jest"],
+    "types": ["node"],
     "declaration": true,
     "removeComments": true,
     "strict": true,
