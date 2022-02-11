@@ -6,14 +6,18 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "lerna run build",
-    "format": "lerna run format",
-    "format:check": "lerna run format:check",
+    "build": "nx run-many --target=build --all --parallel",
+    "format": "nx run-many --target=format --all --parallel",
+    "format:check": "nx run-many --target=format:check --all --parallel",
     "prepare": "husky install",
     "prerelease": "run-s build format",
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {
+    "@nrwl/cli": "13.8.1",
+    "@nrwl/node": "^13.8.1",
+    "@nrwl/tao": "13.8.1",
+    "@nrwl/workspace": "13.8.1",
     "@types/node": "^17.0.17",
     "husky": "^7.0.0",
     "lerna": "^4.0.0",
