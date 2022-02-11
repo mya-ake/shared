@@ -1289,7 +1289,7 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nrwl/node@^13.8.1":
+"@nrwl/node@13.8.1":
   version "13.8.1"
   resolved "https://registry.yarnpkg.com/@nrwl/node/-/node-13.8.1.tgz#78b99b6bafe72b63ad0cf308f2bf0ccd05e0a423"
   integrity sha512-D1ZjBV1gAr+CIu4h9fWlazAqeFBg1iAtBsVgzszn6iizaw3y66wq7oknZUozP4uALvkFdK2q+qLEwAsGrZBCyg==
