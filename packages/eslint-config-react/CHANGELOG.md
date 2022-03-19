@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.7](https://github.com/mya-ake/shared/compare/@mya-ake/eslint-config-react@1.1.6...@mya-ake/eslint-config-react@1.1.7) (2022-03-19)
+
+**Note:** Version bump only for package @mya-ake/eslint-config-react
+
 ## [1.1.6](https://github.com/mya-ake/shared/compare/@mya-ake/eslint-config-react@1.1.5...@mya-ake/eslint-config-react@1.1.6) (2022-02-11)
 
 **Note:** Version bump only for package @mya-ake/eslint-config-react
