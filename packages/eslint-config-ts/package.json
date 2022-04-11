@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "5.15.0",
-    "@typescript-eslint/parser": "5.15.0",
+    "@typescript-eslint/parser": "5.19.0",
     "eslint-config-prettier": "8.5.0"
   },
   "gitHead": "502a1a49b6e358bdc2bed4a7da557cd3dfa938c7"
