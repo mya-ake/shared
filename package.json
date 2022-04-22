@@ -14,7 +14,7 @@
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {
-    "@nrwl/cli": "13.8.1",
+    "@nrwl/cli": "14.0.1",
     "@nrwl/node": "13.8.1",
     "@nrwl/tao": "13.8.1",
     "@nrwl/workspace": "13.8.1",
