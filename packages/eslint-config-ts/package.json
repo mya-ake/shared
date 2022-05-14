@@ -1,6 +1,6 @@
 {
   "name": "@mya-ake/eslint-config-ts",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "eslint-config for TypeScript",
   "author": "mya-ake <make.app.ts@gmail.com> (https://github.com/mya-ake)",
   "homepage": "https://github.com/mya-ake/shared#readme",
