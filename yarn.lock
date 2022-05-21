@@ -814,7 +814,7 @@
     node-gyp "^9.0.0"
     read-package-json-fast "^2.0.3"
 
-"@nrwl/cli@14.1.7", "@nrwl/cli@^14.1.7":
+"@nrwl/cli@14.1.7":
   version "14.1.7"
   resolved "https://registry.yarnpkg.com/@nrwl/cli/-/cli-14.1.7.tgz#bc67b6471510c3335e2b217f3ad68a33f5dc4947"
   integrity sha512-HVvqYwefizcoVc4xrTgfIC8nfMA9cx5NiaIbZFDIZv12NsdalpA6a2BmmV8Zck+QQSGEHrhTZyt1AqDhA1t+6A==
@@ -879,7 +879,7 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nrwl/node@^14.1.7":
+"@nrwl/node@14.1.7":
   version "14.1.7"
   resolved "https://registry.yarnpkg.com/@nrwl/node/-/node-14.1.7.tgz#8388c511ffd0dd48fff3ecfadc1d5df15b06b35d"
   integrity sha512-mnvS1WyXJgvwY3RKpEYf+i1UqPo3JJFLyzoBog7I9BWY1S5LQBH0UwTbrsb5hO48JRH7lHFSd96QoZT2Bzp+9Q==
@@ -910,14 +910,14 @@
     webpack-merge "^5.8.0"
     webpack-node-externals "^3.0.0"
 
-"@nrwl/tao@14.1.7", "@nrwl/tao@^14.1.7":
+"@nrwl/tao@14.1.7":
   version "14.1.7"
   resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-14.1.7.tgz#c589544092f92380bb9f5c51bf60c40603b39c27"
   integrity sha512-7jzPqEwElMiTKCZm2iuqC5aPIs+IwocWR6Tl1JhC1eK2PWskHOhdgTQM186lfXwPKWH4NJAE3eZFqtECnGDCJg==
   dependencies:
     nx "14.1.7"
 
-"@nrwl/workspace@14.1.7", "@nrwl/workspace@^14.1.7":
+"@nrwl/workspace@14.1.7":
   version "14.1.7"
   resolved "https://registry.yarnpkg.com/@nrwl/workspace/-/workspace-14.1.7.tgz#f5b8474ac5ee18e77a4657d43b457aed6444e5ae"
   integrity sha512-EjMG8fFiwZjKcOjCnlqACyS0pRQ3Z5/gnT2ZWmCXHxjX7DkrtQS+5bjTW1mHevU/CiLNgHlVyd5ogaQ4ZZtmKg==
