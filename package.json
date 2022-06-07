@@ -17,7 +17,7 @@
     "@lerna-lite/cli": "^1.0.5",
     "@nrwl/cli": "14.1.9",
     "@nrwl/node": "14.1.9",
-    "@nrwl/tao": "14.1.9",
+    "@nrwl/tao": "14.2.1",
     "@nrwl/workspace": "14.1.9",
     "@types/node": "^17.0.17",
     "husky": "^8.0.1",
