@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@lerna-lite/cli": "^1.0.5",
-    "@nrwl/cli": "14.1.9",
+    "@nrwl/cli": "14.2.2",
     "@nrwl/node": "14.1.9",
     "@nrwl/tao": "14.1.9",
     "@nrwl/workspace": "14.1.9",
