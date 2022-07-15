@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.14](https://github.com/mya-ake/shared/compare/@mya-ake/eslint-config-ts@1.1.13...@mya-ake/eslint-config-ts@1.1.14) (2022-07-15)
+
+**Note:** Version bump only for package @mya-ake/eslint-config-ts
+
 ## [1.1.13](https://github.com/mya-ake/shared/compare/@mya-ake/eslint-config-ts@1.1.12...@mya-ake/eslint-config-ts@1.1.13) (2022-07-09)
 
 **Note:** Version bump only for package @mya-ake/eslint-config-ts
